@@ -26,3 +26,13 @@ Here's how it will look:
 enter text for your ad. Once I receive your text, I will include it into the
 next commit to one of my open source project at https://github.com/dchest
 as soon as I have something to commit.)
+
+## Example
+
+Here's the first sponsored commit as it appears on GitHub:
+
+[![Screenshot of sponsored commit](screenshot.png)
+
+## List of sponsored commits
+
+1. https://github.com/dchest/captcha/commit/cede256342ab8b650f6708edceffd8830cd531c0
