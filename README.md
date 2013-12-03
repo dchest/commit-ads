@@ -31,7 +31,7 @@ as soon as I have something to commit.)
 
 Here's the first sponsored commit as it appears on GitHub:
 
-[![Screenshot of sponsored commit](screenshot.png)
+![Screenshot of sponsored commit](screenshot.png)
 
 ## List of sponsored commits
 
