@@ -2,8 +2,7 @@ Put your ad into my commit!
 ===========================
 
 
-For only **0.01 BTC** (today it's around $10, tomorrow maybe a few millions),
-you can sponsor my Git commit!
+For only **0.01 BTC** you can sponsor my Git commit!
 
 Here's how it will look:
 
